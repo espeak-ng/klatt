@@ -44,10 +44,10 @@ In order to build Klatt, you need:
 
 Klatt uses a standard autotools build setup. Simply run:
 
-    $ ./autogen.sh
-    $ ./configure --prefix=/usr
-    $ make
-    $ sudo make install
+    ./autogen.sh
+    ./configure --prefix=/usr
+    make
+    sudo make install
 
 ## Modifications
 
